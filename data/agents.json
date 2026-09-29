@@ -1,0 +1,60 @@
+{
+  "agents": [
+    {
+      "name": "Coding Agent",
+      "description": "Responsible for coding tasks and code generation.",
+      "status": "active",
+      "skills": ["coding", "code review"],
+      "assigned_tasks": [1]
+    },
+    {
+      "name": "Writer Agent",
+      "description": "Handles writing tasks and content generation.",
+      "status": "inactive",
+      "skills": ["writing", "editing"],
+      "assigned_tasks": [2]
+    },
+    {
+      "name": "Analysis Agent",
+      "description": "Performs data analysis and reporting.",
+      "status": "inactive",
+      "skills": ["data analysis", "reporting"],
+      "assigned_tasks": [3]
+    },
+    {
+      "name": "Legal Critic",
+      "description": "Evaluates outputs from a legal perspective.",
+      "status": "inactive",
+      "skills": ["legal review", "compliance"],
+      "assigned_tasks": [4]
+    },
+    {
+      "name": "Security Critic",
+      "description": "Evaluates outputs from a security perspective.",
+      "status": "inactive",
+      "skills": ["security review", "vulnerability assessment"],
+      "assigned_tasks": [5]
+    },
+    {
+      "name": "Social Critic",
+      "description": "Evaluates outputs from a social and ethical perspective.",
+      "status": "inactive",
+      "skills": ["social impact", "ethics"],
+      "assigned_tasks": [6]
+    },
+    {
+      "name": "Optimization Critic",
+      "description": "Evaluates outputs from an optimization perspective.",
+      "status": "inactive",
+      "skills": ["performance optimization", "resource management"],
+      "assigned_tasks": [7]
+    },
+    {
+      "name": "UX Critic",
+      "description": "Evaluates outputs from a user experience perspective.",
+      "status": "inactive",
+      "skills": ["user interface", "usability"],
+      "assigned_tasks": [8]
+    }
+  ]
+}

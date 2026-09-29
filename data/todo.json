@@ -1,0 +1,60 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "description": "Implement Coding Agent",
+      "status": "in_progress",
+      "priority": "high",
+      "assigned_to": "Coding Agent"
+    },
+    {
+      "id": 2,
+      "description": "Implement Writer Agent",
+      "status": "not_started",
+      "priority": "medium",
+      "assigned_to": "Writer Agent"
+    },
+    {
+      "id": 3,
+      "description": "Implement Analysis Agent",
+      "status": "not_started",
+      "priority": "medium",
+      "assigned_to": "Analysis Agent"
+    },
+    {
+      "id": 4,
+      "description": "Implement Legal Critic",
+      "status": "not_started",
+      "priority": "high",
+      "assigned_to": "Legal Critic"
+    },
+    {
+      "id": 5,
+      "description": "Implement Security Critic",
+      "status": "not_started",
+      "priority": "high",
+      "assigned_to": "Security Critic"
+    },
+    {
+      "id": 6,
+      "description": "Implement Social Critic",
+      "status": "not_started",
+      "priority": "medium",
+      "assigned_to": "Social Critic"
+    },
+    {
+      "id": 7,
+      "description": "Implement Optimization Critic",
+      "status": "not_started",
+      "priority": "medium",
+      "assigned_to": "Optimization Critic"
+    },
+    {
+      "id": 8,
+      "description": "Implement UX Critic",
+      "status": "not_started",
+      "priority": "medium",
+      "assigned_to": "UX Critic"
+    }
+  ]
+}

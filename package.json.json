@@ -1,0 +1,12 @@
+{
+  "name": "node-ai-system",
+  "version": "1.0.0",
+  "description": "A raw Node.js multi-agent AI system connecting to a local Ollama instance",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "type": "module"
+}

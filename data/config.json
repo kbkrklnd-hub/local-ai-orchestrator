@@ -1,0 +1,28 @@
+{
+  "server": {
+    "host": "localhost",
+    "port": 3000
+  },
+  "logging": {
+    "level": "info",
+    "file": "logs/app.log"
+  },
+  "security": {
+    "ssl": false,
+    "cors": {
+      "allowedOrigins": ["http://localhost:3000"]
+    }
+  },
+  "features": {
+    "agent": {
+      "coding": true,
+      "writing": false,
+      "analysis": false,
+      "legalCritic": false,
+      "securityCritic": false,
+      "socialCritic": false,
+      "optimizationCritic": false,
+      "uxCritic": false
+    }
+  }
+}

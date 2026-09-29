@@ -1,0 +1,8 @@
+{
+  "terms": {
+    "Ollama": "A local AI server providing chat capabilities.",
+    "Agent": "A specialized module responsible for specific tasks within the system.",
+    "Critic": "A module responsible for evaluating and filtering outputs from worker agents.",
+    "Semantic Versioning": "A versioning scheme that uses a three-part version number (major, minor, patch) to indicate changes in software."
+  }
+}
